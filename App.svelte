@@ -551,7 +551,6 @@ body{
     <div>Modified for Lucknow by <a href="https://www.google.com/search?q=shivamdshon" target="_blank" rel="noopener noreferrer">SDS</a></div>
   </div>
 
-  <script id="cid0020000280266070449" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"covidresource","arch":"js","styles":{"a":"e0e0e0","b":100,"c":"000000","d":"000000","k":"e0e0e0","l":"e0e0e0","m":"e0e0e0","p":"10","q":"e0e0e0","r":100,"cnrs":"0.35","fwtickm":1}}</script>
 </main>
-
+<script id="cid0020000280266646382" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 234px;height: 300px;">{"handle":"covidresource","arch":"js","styles":{"a":"383838","b":100,"c":"FFFFFF","d":"FFFFFF","k":"383838","l":"383838","m":"383838","n":"FFFFFF","p":"10","q":"383838","r":100,"pos":"br","cv":1,"cvbg":"ffcccc","cvfg":"000000","cvw":200,"cvh":30,"cnrs":"0.35","ticker":1}}</script>
 </body>
