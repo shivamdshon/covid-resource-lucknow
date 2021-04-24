@@ -326,8 +326,6 @@ body{
 <main>
 	<h1>Lucknow - Covid Resources Finder</h1>
   <style>
-
-    /*! CSS Used from: https://scotch.io/css/main.css?id=8484e841a888d17c6463 */
     
     .navbar{background-color:#fff;min-height:3.25rem;position:relative;z-index:30;}
     .navbar.is-dark{background-color:#363636;color:#f5f5f5;}
@@ -335,25 +333,14 @@ body{
     a.navbar-item{cursor:pointer;}
     a.navbar-item:hover{background-color:#fafafa;color:#3273dc;}
     .navbar-item{display:block;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:0;flex-shrink:0;}
-    @media screen and (min-width:1088px){
-    .navbar{-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;display:-webkit-box;display:-ms-flexbox;display:flex;}
-    .navbar{min-height:3.25rem;}
-    .navbar-item{-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-    .navbar-item{display:-webkit-box;display:-ms-flexbox;display:flex;}
-    }
     
-    *{page-break-before:auto;border:none;text-decoration:none;}
-    nav{display:none;}
-    a{color:#000;}
-    }
+
     #tag-nav{background:rgba(0,0,0,.82);top:0;min-height:0;overflow:hidden;z-index:20;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;}
     #tag-nav .navbar-item{font-size:14px;padding:12px 25px;font-weight:700;-webkit-transition:color .3s ease;transition:color .3s ease;}
     #tag-nav .navbar-item.color-javascript{color:#bcac29;}
     #tag-nav .navbar-item span{-webkit-transform:translateY(-1px);transform:translateY(-1px);opacity:.6;margin-right:1px;}
     #tag-nav .navbar-item:hover{background:none;color:#fff!important;}
-    @media screen and (min-width:1216px){
-    #tag-nav{top:60px;position:fixed;width:100%;}
-    }
+    
     .color-css{color:#2ca9e1;}
     .color-javascript{color:#ffe725;}
     .color-angular{color:#e03237;}
