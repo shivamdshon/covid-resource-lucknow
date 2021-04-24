@@ -387,9 +387,6 @@ body{
                 <a class="navbar-item color-laravel" href="https://twitter.com/search?q=verified+hyderabad+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
                 <span>#</span>Hyderabad
             </a>
-                <a class="navbar-item color-css" href="https://twitter.com/search?q=verified+punjab+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
-                <span>#</span>Punjab
-            </a>
                 <a class="navbar-item color-vs-code" href="https://twitter.com/search?q=verified+nagpur+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
                 <span>#</span>Nagpur
             </a>
@@ -401,9 +398,6 @@ body{
             </a>
             <a class="navbar-item color-python" href="https://twitter.com/search?q=verified+kolkata+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
                 <span>#</span>Kolkata
-            </a>
-            <a class="navbar-item color-python" href="https://twitter.com/search?q=verified+goa+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
-                <span>#</span>Goa
             </a>
             <a class="navbar-item color-python" href="https://twitter.com/search?q=verified+jaipur+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
                 <span>#</span>Jaipur
