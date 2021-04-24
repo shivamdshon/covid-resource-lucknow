@@ -185,7 +185,7 @@
     LocalStorage.removeItem(STORAGE_KEY.generated_links);
   }
 </script>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 
 body {
@@ -445,12 +445,9 @@ body{
     </div>
 
     <div id="other-resources">
-      <h2>Instagram Accounts sharing sources of Resources</h2>
+      <h2>Telegram Group Chat For Sharing Resources (Lucknow)</h2>
       <ul>
-        <li><a href="https://docs.google.com/spreadsheets/d/13my6gupVkHWMdNuz95aXQpWH3FD-deTV9KSLjoHntpg/edit#gid=0" target="_blank" rel="noopener noreferrer">Check out - Lucknow Covid Resource Spreadsheet <br/><br />(For Testing, Beds, Meds , Oxygen, Plasma, Ambulance, Hospital, Food etc). </a></li>
-      </ul>
-      <ul>
-        <li><a href="https://covidfacts.in/" target="_blank" rel="noopener noreferrer">covidfacts.in</a></li>
+        <li><a href="https://t.me/joinchat/c4g2zXSxhsM1ZjRl" target="_blank" rel="noopener noreferrer">Click here - For Joining the Telegram group. </a></li> <br/><br />(Note: Please share only verified sources of resource in group. )<br/>DO NOT MAKE ADVANCED PAYMENTS UNLESS YOU ARE 100% SURE ABOUT THEIR AUTHENTICITY. I hold no responsibility for your actions.
       </ul>
     </div>
 
