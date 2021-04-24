@@ -551,8 +551,8 @@ body{
 
   <div class="feedback">
     <div><a href="https://github.com/shivamdshon/covid-resource-lucknow" target="_blank" rel="noopener noreferrer">SDS- Github Source code</a></div>
-    <div>Dev by <a href="https://twitter.com/umanghome" target="_blank" rel="noopener noreferrer">Umang</a> with ideas from a lot of folks on the Internet</div>
-    <div>Modified & Re-mastered by <a href="https://www.instagram.com/shivamdshon" target="_blank" rel="noopener noreferrer">ShivamDShon</a> for Lucknow</div>
+    <div>Dev by <a href="https://twitter.com/umanghome" target="_blank" rel="noopener noreferrer">Umang</a> with ideas from a lot of folks on the Internet.</div>
+    <div>Modified & Re-mastered by <a href="https://www.instagram.com/shivamdshon" target="_blank" rel="noopener noreferrer">ShivamDShon</a> for Lucknow.</div>
   </div>
 
 </main>
