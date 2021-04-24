@@ -546,9 +546,9 @@ body{
   </div>
 
   <div class="feedback">
-    <div><a href="https://github.com/umanghome/twitter-search-covid19" target="_blank" rel="noopener noreferrer">Source code</a></div>
+    <div><a href="https://github.com/umanghome/covid-resource-lucknow" target="_blank" rel="noopener noreferrer">Source code</a></div>
     <div>Made by <a href="https://twitter.com/umanghome" target="_blank" rel="noopener noreferrer">Umang</a> with ideas from a lot of folks on the Internet</div>
-    <div>Modified for Lucknow by <a href="https://www.google.com/search?q=shivamdshon" target="_blank" rel="noopener noreferrer">SDS</a></div>
+    <div>Modified for Lucknow by <a href="https://www.google.com/search?q=shivamdshon" target="_blank" rel="noopener noreferrer">ShivamDShon</a></div>
   </div>
 
 </main>
