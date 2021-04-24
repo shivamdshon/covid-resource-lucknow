@@ -324,21 +324,48 @@ body{
 </style>
 <body>
   <style>
-    
+
+    *,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
+    a{color:#3273dc;cursor:pointer;text-decoration:none;}
+    a:hover{color:#363636;}
+    span{font-style:inherit;font-weight:inherit;}
+    @media screen and (max-width:1087px){
+    .is-hidden-touch{display:none!important;}
+    }
     .navbar{background-color:#fff;min-height:3.25rem;position:relative;z-index:30;}
     .navbar.is-dark{background-color:#363636;color:#f5f5f5;}
     .navbar-item{color:#4a4a4a;display:block;line-height:1.5;padding:.5rem .75rem;position:relative;}
     a.navbar-item{cursor:pointer;}
     a.navbar-item:hover{background-color:#fafafa;color:#3273dc;}
     .navbar-item{display:block;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:0;flex-shrink:0;}
-    
-
+    @media screen and (min-width:1088px){
+    .navbar{-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;display:-webkit-box;display:-ms-flexbox;display:flex;}
+    .navbar{min-height:3.25rem;}
+    .navbar-item{-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+    .navbar-item{display:-webkit-box;display:-ms-flexbox;display:flex;}
+    }
+    ::-webkit-input-placeholder{opacity:.7;}
+    :-moz-placeholder,::-moz-placeholder{opacity:.7;}
+    :-ms-input-placeholder{opacity:.7;}
+    ::-moz-selection{color:#665213;background:#f2e4b9;}
+    ::selection{color:#665213;background:#f2e4b9;}
+    @media print{
+    nav{display:block;}
+    a:focus{outline:thin dotted;}
+    a:active,a:hover{outline:0;}
+    *{background:#fff;}
+    *{page-break-before:auto;border:none;text-decoration:none;}
+    nav{display:none;}
+    a{color:#000;}
+    }
     #tag-nav{background:rgba(0,0,0,.82);top:0;min-height:0;overflow:hidden;z-index:20;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;}
     #tag-nav .navbar-item{font-size:14px;padding:12px 25px;font-weight:700;-webkit-transition:color .3s ease;transition:color .3s ease;}
     #tag-nav .navbar-item.color-javascript{color:#bcac29;}
     #tag-nav .navbar-item span{-webkit-transform:translateY(-1px);transform:translateY(-1px);opacity:.6;margin-right:1px;}
     #tag-nav .navbar-item:hover{background:none;color:#fff!important;}
-    
+    @media screen and (min-width:1216px){
+    #tag-nav{top:60px;position:fixed;width:100%;}
+    }
     .color-css{color:#2ca9e1;}
     .color-javascript{color:#ffe725;}
     .color-angular{color:#e03237;}
