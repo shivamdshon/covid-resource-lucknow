@@ -546,7 +546,7 @@ body{
   </div>
 
   <div id="other-resources">
-    <h2>More Resources & Features Coming Soon (Lucknow)</h2>
+    <h2>More Resources & Features Coming Soon!</h2>
   </div>
 
   <div class="feedback">
