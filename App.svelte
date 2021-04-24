@@ -328,13 +328,7 @@ body{
   <style>
 
     /*! CSS Used from: https://scotch.io/css/main.css?id=8484e841a888d17c6463 */
-    *,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
-    a{color:#3273dc;cursor:pointer;text-decoration:none;}
-    a:hover{color:#363636;}
-    span{font-style:inherit;font-weight:inherit;}
-    @media screen and (max-width:1087px){
-    .is-hidden-touch{display:none!important;}
-    }
+    
     .navbar{background-color:#fff;min-height:3.25rem;position:relative;z-index:30;}
     .navbar.is-dark{background-color:#363636;color:#f5f5f5;}
     .navbar-item{color:#4a4a4a;display:block;line-height:1.5;padding:.5rem .75rem;position:relative;}
