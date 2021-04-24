@@ -341,16 +341,7 @@ body{
     .navbar-item{-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
     .navbar-item{display:-webkit-box;display:-ms-flexbox;display:flex;}
     }
-    ::-webkit-input-placeholder{opacity:.7;}
-    :-moz-placeholder,::-moz-placeholder{opacity:.7;}
-    :-ms-input-placeholder{opacity:.7;}
-    ::-moz-selection{color:#665213;background:#f2e4b9;}
-    ::selection{color:#665213;background:#f2e4b9;}
-    @media print{
-    nav{display:block;}
-    a:focus{outline:thin dotted;}
-    a:active,a:hover{outline:0;}
-    *{background:#fff;}
+    
     *{page-break-before:auto;border:none;text-decoration:none;}
     nav{display:none;}
     a{color:#000;}
