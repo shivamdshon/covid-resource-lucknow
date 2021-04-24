@@ -550,5 +550,8 @@ body{
     <div>Made by <a href="https://twitter.com/umanghome" target="_blank" rel="noopener noreferrer">Umang</a> with ideas from a lot of folks on the Internet</div>
     <div>Modified for Lucknow by <a href="https://www.google.com/search?q=shivamdshon" target="_blank" rel="noopener noreferrer">SDS</a></div>
   </div>
+
+  <script id="cid0020000280266070449" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"covidresource","arch":"js","styles":{"a":"e0e0e0","b":100,"c":"000000","d":"000000","k":"e0e0e0","l":"e0e0e0","m":"e0e0e0","p":"10","q":"e0e0e0","r":100,"cnrs":"0.35","fwtickm":1}}</script>
 </main>
+
 </body>
