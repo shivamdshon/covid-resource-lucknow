@@ -323,8 +323,6 @@ body{
   }
 </style>
 <body>
-<main>
-	<h1>Lucknow - Covid Resources Finder</h1>
   <style>
     
     .navbar{background-color:#fff;min-height:3.25rem;position:relative;z-index:30;}
@@ -400,6 +398,9 @@ body{
         
     
     </nav>
+<main>
+	<h1>Lucknow - Covid Resources Finder</h1>
+  
   <p>This is a remastered & modified version for finding covid resources in all areas of Lucknow.<br/><br/><strong>Please note, I hold no copyrights.</strong></p>
   <div class="split">
     <div id="main-content">
