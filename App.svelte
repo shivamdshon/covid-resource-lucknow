@@ -186,6 +186,16 @@
   }
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:site_name" content="Covid Resource Tweets Finder - Lucknow">
+<meta property="og:url" content="https://tweetsfinder.xyz/">
+<meta property="og:title" content="Covid Resource Finder - For Finding Tweets on Covid Resources in India">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Covid Resource Tweets Finder - is a motivational initiative website that helps in finding Covid Resource Tweets. It has various filters and information that can be useful in finding latest tweets on resources such as Oxygen, Beds, Doctors, Tiffin and Meds. Note: It is a modified version of 'Tweets for Covid' and I hold no copyrights. Use at your own responsibility."><meta property="og:image" content="https://github.com/shivamdshon/covid-resource-lucknow/blob/main/Logo.jpg">
+<meta property="og:image:secure_url" content="https://github.com/shivamdshon/covid-resource-lucknow/blob/main/Logo.jpg">
+<meta name="twitter:title" content="Covid Resource Finder - For Finding Tweets on Covid Resources in India">
+<meta name="twitter:description" content="Covid Resource Tweets Finder - is a motivational initiative website that helps in finding Covid Resource Tweets. It has various filters and information that can be useful in finding latest tweets on resources such as Oxygen, Beds, Doctors, Tiffin and Meds. Note: It is a modified version of 'Tweets for Covid' and I hold no copyrights. Use at your own responsibility.">
+<meta name="twitter:image" content="https://github.com/shivamdshon/covid-resource-lucknow/blob/main/Logo.jpg">
+
 <style>
 
 body {
